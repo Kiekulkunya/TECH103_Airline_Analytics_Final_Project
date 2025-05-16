@@ -1,7 +1,7 @@
 🛫 🤖 TECH 103 - Final Project Submission “ Next-Gen AI Airline Semantic Search Intelligence and Agentic AI Weather Alert Assistance Prototype (Beta)”
 Summary:
 
-[https://furry-pizza-7fa.notion.site/TECH-103-Final-Project-Submission-Next-Gen-AI-Airline-Semantic-Search-Intelligence-and-Agentic-A-1f5111afefc18008b04ef9db0e54b8f1?pvs=73](https://furry-pizza-7fa.notion.site/TECH-103-Final-Project-Submission-Next-Gen-AI-Airline-Semantic-Search-Intelligence-and-Agentic-A-1f5111afefc18008b04ef9db0e54b8f1)
+[[https://furry-pizza-7fa.notion.site/TECH-103-Final-Project-Submission-Next-Gen-AI-Airline-Semantic-Search-Intelligence-and-Agentic-A-1f5111afefc18008b04ef9db0e54b8f1?pvs=73](https://furry-pizza-7fa.notion.site/TECH-103-Final-Project-Submission-Next-Gen-AI-Airline-Semantic-Search-Intelligence-and-Agentic-A-1f5111afefc18008b04ef9db0e54b8f1)](https://furry-pizza-7fa.notion.site/TECH-103-Final-Project-Submission-Next-Gen-AI-Airline-Semantic-Search-Intelligence-and-Agentic-A-1f5111afefc18008b04ef9db0e54b8f1)
 
 https://colab.research.google.com/drive/1vi0s1py6sztmVOsv8XClpwxwQa7vBUHA?usp=sharing
 
